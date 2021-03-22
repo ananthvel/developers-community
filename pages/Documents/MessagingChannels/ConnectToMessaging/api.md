@@ -12,7 +12,7 @@ indicator: messaging
 
 ### Introduction
 
-Connect To Messaging (C2M) is a product offering from LivePerson allowing brands to offer consumers an option to deflect to messaging when they call into their IVR. C2M API serves as an intermediary between the brand’s IVR System and LivePerson Conversational Cloud, ensuring that the consumer is invited to join a conversation with an agent via eligible messaging channels. Once a consumer responds to a message from that channel, C2M ensures that the conversation is routed to an agent of the appropriate skill specified by the brands.
+Connect To Messaging (C2M) 2.0 is a product offering from LivePerson allowing brands to offer consumers an option to deflect to messaging when they call into their IVR. C2M API serves as an intermediary between the brand’s IVR System and LivePerson Conversational Cloud, ensuring that the consumer is invited to join a conversation with an agent via eligible messaging channels. Once a consumer responds to a message from that channel, C2M ensures that the conversation is routed to an agent of the appropriate skill specified by the brands.
 
 
 ### Getting Started
